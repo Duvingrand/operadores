@@ -1,10 +1,11 @@
 // Exercise 1: ¿Es 35 mayor que 25?
 console.groupCollapsed("Exercise 1: ¿Es 35 mayor que 25?");
-    
+    console.log(35>25)
 console.groupEnd();
 
 // Exercise 2: ¿Es 45 menor que 30?
 console.groupCollapsed("Exercise 2: ¿Es 45 menor que 30?");
+    console.log
 console.groupEnd();
 
 // Exercise 3: ¿Son 50 y "50" iguales?
